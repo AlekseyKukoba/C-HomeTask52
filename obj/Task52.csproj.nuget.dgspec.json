@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\Task52\\Task52.csproj": {}
+    "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\task52\\Task52.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\Task52\\Task52.csproj": {
+    "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\task52\\Task52.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\Task52\\Task52.csproj",
+        "projectUniqueName": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\task52\\Task52.csproj",
         "projectName": "Task52",
-        "projectPath": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\Task52\\Task52.csproj",
+        "projectPath": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\task52\\Task52.csproj",
         "packagesPath": "C:\\Users\\kukoba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\Task52\\obj\\",
+        "outputPath": "C:\\Users\\kukoba\\Desktop\\Рабочий стол\\Geekbrains\\Языки программирования\\С#\\Lesson7\\task52\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kukoba\\AppData\\Roaming\\NuGet\\NuGet.Config"
